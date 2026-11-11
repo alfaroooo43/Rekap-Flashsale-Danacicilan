@@ -1,0 +1,31 @@
+{
+  "name": "Rekap Flash Sale Dana Cicilan",
+  "short_name": "Rekap FS",
+  "description": "Catat, hitung otomatis, dan ceklis voucher Flash Sale Dana Cicilan per sesi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff1f5",
+  "theme_color": "#ec4899",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
